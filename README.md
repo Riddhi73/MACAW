@@ -1,3 +1,5 @@
+## THIS REPOSITORY IS MODIFIED FOR RESEARCH PURPOSE
+## ORIGINAL REPOSITORY https://github.com/lyuchenyang/Macaw-LLM.git
 <div align="center">
   <img src="https://raw.githubusercontent.com/lyuchenyang/Macaw-LLM/main/assets/logo-text.png" alt="Logo" width="200">
 </div>
